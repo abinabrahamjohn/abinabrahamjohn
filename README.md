@@ -11,10 +11,8 @@ I am interested in driving businesss outcomes through application of data scienc
 
 ### Machine Learning & Data Science
 [<img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/) &nbsp;
-[<img alt="PySpark" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" height="48"/>](https://spark.apache.org/docs/latest/api/python/) &nbsp;
+[<img alt="PySpark" src="https://miro.medium.com/max/1200/1*qgkjkj6BLVS1uD4mw_sTEg.png" height="48"/>](https://spark.apache.org/docs/latest/api/python/) &nbsp;
 [<img alt="SQL" src="https://cloudblogs.microsoft.com/wp-content/uploads/sites/32/2020/05/SQL.png" height="48"/>](https://www.w3schools.com/sql/) &nbsp;
-[<img alt="Scikit Learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" height="48"/>](https://scikit-learn.org/) &nbsp;
-[<img alt="Pandas" src="https://i.redd.it/c6h7rok9c2v31.jpg" height="48"/>](https://pandas.pydata.org/) &nbsp;
 [<img alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/) &nbsp;
 [<img alt="PyTorch" src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>](https://pytorch.org/) &nbsp;
 [<img alt="Google Cloud" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="48"/>](https://cloud.google.com/)
