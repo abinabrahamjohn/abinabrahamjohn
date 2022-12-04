@@ -15,7 +15,7 @@ I am interested in driving businesss outcomes through application of data scienc
 [<img alt="SQL" src="https://cloudblogs.microsoft.com/wp-content/uploads/sites/32/2020/05/SQL.png" height="48"/>](https://www.w3schools.com/sql/) &nbsp;
 [<img alt="Tensorflow" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](https://www.tensorflow.org/) &nbsp;
 [<img alt="PyTorch" src="https://user-images.githubusercontent.com/42147848/178567459-cb1bfe41-dee5-455b-af94-ce4d4f036295.png" height="48"/>](https://pytorch.org/) &nbsp;
-[<img alt="Google Cloud" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" height="48"/>](https://cloud.google.com/)
+[<img alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" height="48"/>](https://cloud.google.com/)
 
 ### Software Development
 [<img alt="GitHub" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/>](https://github.com/about) &nbsp;
