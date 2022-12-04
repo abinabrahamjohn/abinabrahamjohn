@@ -20,7 +20,7 @@ I am interested in driving businesss outcomes through application of data scienc
 ### Software Development
 [<img alt="GitHub" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/>](https://github.com/about) &nbsp;
 [<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
-[<img alt="PyCharm" src="https://res.cloudinary.com/practicaldev/image/fetch/s--e37-599c--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7mnehky25npuwfbhz6e.png" height="48"/>](https://www.jetbrains.com/pycharm/)
+[<img alt="PyCharm" src="https://media-exp1.licdn.com/dms/image/C4E12AQHCUWh96irQQw/article-cover_image-shrink_600_2000/0/1634649848670?e=2147483647&v=beta&t=LczgV8ZqQ9ciel6abtw64qpdtswpZMjxQ4NiAfyxO9U" height="48"/>](https://www.jetbrains.com/pycharm/)
 
 
 
