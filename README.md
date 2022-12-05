@@ -23,7 +23,7 @@ I am interested in driving businesss outcomes through application of data scienc
 [<img alt="PyCharm" src="https://xpertlab.com/wp-content/uploads/2020/01/pyCharm.png" height="48"/>](https://www.jetbrains.com/pycharm/)
 
 ## 💼 Work & Education
-Currently a Machine Learning Engineering Consultant at Accenture. &nbsp;
+Currently a Machine Learning Engineering Consultant at Accenture.
 Masters in Data Science from City University of London, United Kingdom.
 
 ## 🤙 Wanna collaborate?
