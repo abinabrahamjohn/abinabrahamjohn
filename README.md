@@ -2,7 +2,7 @@
 [![Connect](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/abrahamabin)
 [![Github Follow](https://img.shields.io/github/followers/LudwigStumpp?color=%23171515&label=Follow&logo=github&logoColor=%23171515&style=for-the-badge)](https://github.com/abinabrahamjohn)
 
-I am interested in driving businesss outcomes through application of data science and machine learning engineering.
+I am interested in driving businesss outcomes through application of data science and machine learning engineering. I am a Google Cloud certified professional machine learning engineer and data engineer.
 
 ## 🚀 Personal Projects
 - Under Construction
@@ -26,6 +26,7 @@ I am interested in driving businesss outcomes through application of data scienc
 
 ## 💼 Work & Education
 Currently a Machine Learning Engineering Consultant at Accenture.
+Masters in Data Science from City University ogf London, United Kingdom.
 
 ## 🤙 Wanna collaborate?
 Under construction.
