@@ -5,7 +5,7 @@
 I am interested in driving businesss outcomes through application of data science and machine learning engineering. I am a Google Cloud certified professional machine learning engineer and data engineer.
 
 ## 🚀 Personal Projects
-- Under Construction
+- Coming soon
 
 ## 🌈 Languages & Libraries
 
@@ -22,11 +22,9 @@ I am interested in driving businesss outcomes through application of data scienc
 [<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
 [<img alt="PyCharm" src="https://xpertlab.com/wp-content/uploads/2020/01/pyCharm.png" height="48"/>](https://www.jetbrains.com/pycharm/)
 
-
-
 ## 💼 Work & Education
 Currently a Machine Learning Engineering Consultant at Accenture.
-Masters in Data Science from City University ogf London, United Kingdom.
+Masters in Data Science from City University of London, United Kingdom.
 
 ## 🤙 Wanna collaborate?
-Under construction.
+Coming soon.
