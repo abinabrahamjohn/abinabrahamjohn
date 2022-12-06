@@ -3,7 +3,7 @@
 [![Github Follow](https://img.shields.io/github/followers/abinabrahamjohn?color=%23171515&label=Follow&logo=github&logoColor=%23171515&style=for-the-badge)](https://github.com/abinabrahamjohn)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 
-I am interested in driving businesss outcomes through application of data science and machine learning engineering. I am a Google Cloud certified professional machine learning engineer and data engineer.
+I am interested in driving businesss outcomes through application of data science and machine learning engineering. Currently a Machine Learning Engineering Consultant at Accenture.  I am a Google Cloud certified professional machine learning engineer and data engineer. I graduated with a Masters in Data Science from City University of London, United Kingdom.
 
 ## 🚀 Personal Projects
 - Coming soon
@@ -25,10 +25,6 @@ I am interested in driving businesss outcomes through application of data scienc
 
 ## :black_nib: Articles
 Coming soon.
-
-## 💼 Work & Education
-Currently a Machine Learning Engineering Consultant at Accenture.
-Masters in Data Science from City University of London, United Kingdom.
 
 ## 🤙 Wanna collaborate?
 Coming soon.
