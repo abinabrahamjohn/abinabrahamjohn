@@ -28,3 +28,8 @@ Masters in Data Science from City University of London, United Kingdom.
 
 ## 🤙 Wanna collaborate?
 Coming soon.
+
+
+[![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=abinabrahamjohn)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abinabrahamjohn.count_visitors)
