@@ -1,6 +1,7 @@
 # Hi, I am Abin Abraham 👋
 [![Connect](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/abrahamabin)
-[![Github Follow](https://img.shields.io/github/followers/LudwigStumpp?color=%23171515&label=Follow&logo=github&logoColor=%23171515&style=for-the-badge)](https://github.com/abinabrahamjohn)
+[![Github Follow](https://img.shields.io/github/followers/abinabrahamjohn?color=%23171515&label=Follow&logo=github&logoColor=%23171515&style=for-the-badge)](https://github.com/abinabrahamjohn)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 
 I am interested in driving businesss outcomes through application of data science and machine learning engineering. I am a Google Cloud certified professional machine learning engineer and data engineer.
 
