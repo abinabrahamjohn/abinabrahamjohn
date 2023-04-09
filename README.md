@@ -30,6 +30,6 @@ Coming soon.
 Coming soon.
 
 
-[![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=abinabrahamjohn)](https://github.com/anuraghazra/github-readme-stats)
+[![Abin's github stats](https://github-readme-stats.vercel.app/api?username=abinabrahamjohn)](https://github.com/abinabrahamjohn/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abinabrahamjohn.count_visitors)
