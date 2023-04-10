@@ -19,7 +19,6 @@ I am interested in driving businesss outcomes through application of data scienc
 [<img alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.png" height="48"/>](https://cloud.google.com/)
 
 ### Software Development
-[<img alt="GitHub" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_200x200.jpg" height="48"/>](https://github.com/about) &nbsp;
 [<img alt="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png" height="48"/>](https://code.visualstudio.com/)
 [<img alt="PyCharm" src="https://xpertlab.com/wp-content/uploads/2020/01/pyCharm.png" height="48"/>](https://www.jetbrains.com/pycharm/)
 
